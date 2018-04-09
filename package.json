@@ -1,0 +1,24 @@
+{
+  "name": "cli-storefront",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customer.js",
+  "dependencies": {
+    "inquirer": "^5.0.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aprillianee/CLI-Storefront.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aprillianee/CLI-Storefront/issues"
+  },
+  "homepage": "https://github.com/aprillianee/CLI-Storefront#readme"
+}
