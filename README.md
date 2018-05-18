@@ -16,7 +16,7 @@ The customer will be provided with the following information for each item:
 * price
 * quantity 
 
-The customer is then able to purchase one of the existing items by entering the item ID and desired quantity. If the selected quantity is in stock, the order is processed displaying the total amount owed and the store's database is updated accordingly. If the desired quantity is not available, the user is prompted mocidy their order. 
+The customer is then able to purchase one of the existing items by entering the item ID and desired quantity. If the selected quantity is in stock, the order is processed displaying the total amount owed and the store's database is updated accordingly. If the desired quantity is not available, the user is prompted to modify their order. 
 
 ## Manager.js
 
