@@ -18,6 +18,12 @@ The customer will be provided with the following information for each item:
 
 The customer is then able to purchase one of the existing items by entering the item ID and desired quantity. If the selected quantity is in stock, the order is processed displaying the total amount owed and the store's database is updated accordingly. If the desired quantity is not available, the user is prompted to modify their order. 
 
+### Sufficient quantity
+![Alt text](images/customer.jpg 'C')
+### Insufficient quantity 
+![Alt text](images/0.png 'C1')
+
+
 ## Manager.js
 
 The manager interface prompts the user with a list of five options:
@@ -39,3 +45,14 @@ The manager interface prompts the user with a list of five options:
 	* price 
 	* quantity
 - **Disconnect**: ends current session
+
+
+### Options
+![Alt text](images/1.png 'M')
+### View low
+![Alt text](images/2.png 'M1')
+### Add to
+![Alt text](images/3.png 'M2')
+### New product
+![Alt text](images/4.png 'M3')
+
